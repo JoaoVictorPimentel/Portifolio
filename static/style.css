@@ -23,10 +23,14 @@ html, body {
     z-index: 9999;
 }
 
+#header .perfil {
+    margin-top: 3rem;
+}
+
 #header .perfil img {
     margin: 15px auto;
     display: block;
-    width: 120px;
+    width: 130px;
     border: 5px solid #270335;
     border-radius: 50%;
 }
@@ -41,7 +45,7 @@ html, body {
 }
 
 #header .perfil .social-links a {
-    font-size: 1rem;
+    font-size: 1.3rem;
     color: white;
     padding: 0.6rem;
     margin-right: 1rem;
@@ -51,19 +55,24 @@ html, body {
 }
 
 #header .perfil .social-links a:hover {
+    transition: 0.7s;
     background-color: #270335;
 }
 
 /* Navbar */
 .nav-menu {
     padding: 1.5rem;
+    margin-top: 2rem;
+}
 
+.nav-item {
+    margin-top: 1.5rem;
 }
 
 .nav-menu a, .nav-menu a:focus{
     display: flex;
     align-items: center;
-    color: #a8a9b4;
+    color: #c2c2cc;
     transition: 0.5s;
     font-size: 15px;
 }
