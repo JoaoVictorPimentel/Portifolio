@@ -289,5 +289,8 @@ section#portfolio {
 
 .card i{
     color: white;
-    width: 10px;
+}
+
+.card-footer{
+    height: 10px;
 }
