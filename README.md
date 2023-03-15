@@ -15,7 +15,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Habilidades
 - [x] Currículo
 - [x] Portfólio
-- [ ] Contato
+- [x] Contato
+- [x] Animações
+- [ ] Envio de e-mail
 
 ### Tecnologias utilizadas 
 
