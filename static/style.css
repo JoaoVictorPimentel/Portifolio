@@ -294,3 +294,16 @@ section#portfolio {
 .card-footer{
     height: 10px;
 }
+
+/* Contato */
+section#contato button{
+    color: rgba(61,12,105,1);
+    background-color: #fff;
+    border-color: rgba(45,9,82,1);
+    font-weight: 500;
+}
+
+section#contato button:hover{
+    opacity: 0.7;
+    transition: 0.7s;
+}
